@@ -1,0 +1,35 @@
+- Price
+- Volume
+	- number of shares in a specific time
+- Volatility
+	- degree of variation, usually standard deviation of price
+- Moving Average
+	- Over a fixed period. Different types, like simple moving average and exponential moving average
+- Relative Strength Index
+	- "momentum oscillator" measures the speed and change of price movements 
+	- > 70 = overbought stock
+	- < 30 = oversold stock
+- Momentum
+	- rate of acceleration of stock price.
+	- > 0 = price increases 
+	- < 0 = price downtrend
+- Beta
+	- stocks volatility *in relation to the market*
+	- > 1 = high volatility
+	- < 1 = low volatility
+- Support and Resistance Levels
+	- *Support* = price @ which a stock consistently stops falling
+	- *Resistance* = price @ which consistently stop rising
+	- indicates potential points for reversal
+- Trend
+	- "uptrend", "downtrend", or "sideways"
+	- qualitative descriptions, not quantitative
+- Price to Earning Ratio
+	- stock's current price relative to per-share earnings
+	- descriptor of the stocks validation
+- Moving Average Convergence Divergence
+	- Shows the relationship between 2 moving averages
+	- comparing one stock to another
+- Bollinger Bands
+	- "bands" around a price that are a function of volatility
+	- when price moves outside the bands, it may signal a reversal
