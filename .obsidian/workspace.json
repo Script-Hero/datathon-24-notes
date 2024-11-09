@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "1c62f51c61057f17",
+            "id": "44a006a7d1c94872",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -233,12 +233,12 @@
   },
   "active": "c22a47e54e984e2d",
   "lastOpenFiles": [
-    "Pasted image 20241109142813.png",
-    "Descriptive Variables of Candlesticks.md",
-    "Embedding Vectors.md",
-    "Untitled.md",
-    "Pipeline.md",
     "Advantage Actor Critic.md",
+    "Embedding Vectors.md",
+    "Descriptive Variables of Candlesticks.md",
+    "Pipeline.md",
+    "Pasted image 20241109142813.png",
+    "Untitled.md",
     "Research.md",
     "Deep Understanding or Market.md",
     "planning.md",

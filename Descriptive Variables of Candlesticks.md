@@ -1,0 +1,12 @@
+- Open
+- Close
+- High
+- Low
+- Body
+	- area between open and close
+- upper shadow (wick)
+- tail
+- real body position
+- range (high - low)
+	- I guess the target variable should be range of the next candlestick - range of the current candlestick
+

@@ -7,7 +7,7 @@ Need to accurately predict [[Characteristics of Stock Movements]]
 
 
 - I hypothesize we will need a different vector space $W$ for each stock, because different stocks have different tendencies
-
+.
 
 - Let's predict the difference (positive or negative) of a candle stick as compared to the previous one (or the next ones difference from the current one in the context of prediction)
 	- this price is a continuous variable. We can't use GloVe because it encodes discrete vector space
