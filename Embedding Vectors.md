@@ -1,4 +1,6 @@
 Need to accurately predict [[Characteristics of Stock Movements]]
+- 
+
 
 - Each vector needs to be a "candlestick" of the stock or similar
 	- because a transformer predicts the next vector in a sequence of vectors.
