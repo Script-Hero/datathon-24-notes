@@ -8,4 +8,9 @@ Need to accurately predict [[Characteristics of Stock Movements]]
 
 
 - Let's predict the difference (positive or negative) of a candle stick as compared to the previous one (or the next ones difference from the current one in the context of prediction)
-	- 
+	- this price is a continuous variable. We can't use GloVe because it encodes discrete vector space
+	- To maximize information contained in vector $w_i\in\mathbf{R}^n$, my first thought is either:
+		1. An autoencoder
+		2. **Variational** Autoencoder
+			- This is preferred because it has a **smooth latent space** and a **Gaussian prior**, which makes sure all input combinations have a realistic output and prevents overfitting on certain types of candlesticks
+
