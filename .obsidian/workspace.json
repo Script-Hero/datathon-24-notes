@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedding Vectors.md",
+                "file": "Descriptive Variables of Candlesticks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Embedding Vectors"
+              "title": "Backlinks for Descriptive Variables of Candlesticks"
             }
           },
           {
@@ -180,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedding Vectors.md",
+                "file": "Descriptive Variables of Candlesticks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Embedding Vectors"
+              "title": "Outgoing links from Descriptive Variables of Candlesticks"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedding Vectors.md"
+                "file": "Descriptive Variables of Candlesticks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Embedding Vectors"
+              "title": "Outline of Descriptive Variables of Candlesticks"
             }
           }
         ]
@@ -231,10 +231,11 @@
       "file-share:Toggle connection": false
     }
   },
-  "active": "c22a47e54e984e2d",
+  "active": "44a006a7d1c94872",
   "lastOpenFiles": [
-    "Advantage Actor Critic.md",
+    "4913",
     "Embedding Vectors.md",
+    "Advantage Actor Critic.md",
     "Descriptive Variables of Candlesticks.md",
     "Pipeline.md",
     "Pasted image 20241109142813.png",
