@@ -8,4 +8,4 @@ Need to accurately predict [[Characteristics of Stock Movements]]
 
 
 - Let's predict the difference (positive or negative) of a candle stick as compared to the previous one (or the next ones difference from the current one in the context of prediction)
-	- 
+	

@@ -1,6 +1,6 @@
 ## Basics 
 - Stocks and Bonds: STock represents ownership while a bond are loans made to a company 
-- MArket indices: Give snapshots of market performance 
+- Market indices: Give snapshots of market performance 
 - Trading Mechanisms: How to buy and sell, make exchanges 
 - Economic indicators: Unemployment rates, inflation, etc. 
 
