@@ -8,8 +8,4 @@
 	1. Select subsets of points (to do something idk his mic cut out)
 4. MLH
 	1. mlh.link/github
-
-
-
-
-Neil is super fucking gay!!!
+	2. I don't think they actually have a challenge

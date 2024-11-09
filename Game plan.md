@@ -1,3 +1,0 @@
-Winning
-- How?
-	- [[Strategy]]
