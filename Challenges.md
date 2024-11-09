@@ -11,5 +11,3 @@
 
 
 
-
-Neil is super fucking gay!!!
