@@ -1,5 +1,5 @@
 Need to accurately predict [[Characteristics of Stock Movements]]
-- 
+- However, since each vector is an *individual candlestick*, we need [[Descriptive Variables of Candlesticks]]
 
 
 - Each vector needs to be a "candlestick" of the stock or similar
@@ -15,4 +15,4 @@ Need to accurately predict [[Characteristics of Stock Movements]]
 		1. An autoencoder
 		2. **Variational** Autoencoder
 			- This is preferred because it has a **smooth latent space** and a **Gaussian prior**, which makes sure all input combinations have a realistic output and prevents overfitting on certain types of candlesticks
-
+	- However, there are a lot of options. Maybe we do a grid search to find the best? ![[Pasted image 20241109142813.png]]
