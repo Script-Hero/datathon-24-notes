@@ -11,14 +11,17 @@
             "id": "c22a47e54e984e2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Embedding Vectors.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Embedding Vectors"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Descriptive Variables of Candlesticks.md",
+                "file": "Embedding Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Descriptive Variables of Candlesticks"
+              "title": "Backlinks for Embedding Vectors"
             }
           },
           {
@@ -109,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descriptive Variables of Candlesticks.md",
+                "file": "Embedding Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Descriptive Variables of Candlesticks"
+              "title": "Outgoing links from Embedding Vectors"
             }
           },
           {
@@ -136,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descriptive Variables of Candlesticks.md"
+                "file": "Embedding Vectors.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Descriptive Variables of Candlesticks"
+              "title": "Outline of Embedding Vectors"
             }
           }
         ]
@@ -159,19 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44a006a7d1c94872",
+  "active": "c22a47e54e984e2d",
   "lastOpenFiles": [
-    "Advantage Actor Critic.md",
-    "Embedding Vectors.md",
-    "Descriptive Variables of Candlesticks.md",
-    "Pipeline.md",
-    "Pasted image 20241109142813.png",
-    "Descriptive Variables of Candlesticks.md",
+    "transformer.py",
+    "Notes/Descriptive Variables of Candlesticks.md",
+    "Notes/Embedding Vectors.md",
+    "Notes/Pipeline.md",
+    "Notes/planning.md",
+    "Notes/Pasted image 20241109142813.png",
+    "Untitled.md",
     "plot_data.py",
     "Notes/Research.md",
-    "Notes/planning.md",
     "Notes/key",
-    "Notes/Embedding Vectors.md",
     "Deep Understanding or Market.md",
     "Notes/Deep Understanding or Market.md",
     "Notes/Characteristics of Stock Movements.md",

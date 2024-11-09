@@ -18,11 +18,14 @@ for csv_file in csv_files:
     df.iloc[:, 0] = pd.to_datetime(df.iloc[:, 0])
     df.set_index(df.iloc[:, 0], inplace=True)
     
+    # Resample data to daily frequency
+    df = df.resample('D').last()
+    
     # Plot volume data
     volume_col = [col for col in df.columns if 'volume' in col.lower()][0]  # Find volume column
     df[volume_col].plot(ax=ax, label=f'{csv_file} - {volume_col}')
     
-    ax.set_title('Trading Volume Over Time')
+    ax.set_title('Daily Trading Volume Over Time')
     ax.grid(True)
     ax.legend()
     ax.set_xlabel('Date')
